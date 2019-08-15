@@ -8,7 +8,7 @@ client_scripts {
 	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
-	'client/esx_vangelico_robbery_cl.lua'
+	'client/client.lua'
 }
 
 server_scripts {
@@ -20,5 +20,5 @@ server_scripts {
 	'locales/es.lua',
 	'locales/fr.lua',
 	'config.lua',
-	'server/esx_vangelico_robbery_sv.lua'
+	'server/server.lua'
 }
